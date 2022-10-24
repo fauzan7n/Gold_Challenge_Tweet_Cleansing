@@ -1,0 +1,15 @@
+﻿Status;Tweet Category; Value ;;
+Hate Speech;HS;5561;;
+Abusive;Abusive;5043;;
+Target;HS_Individual;3,373;;
+Target;HS_Group;1,863;;
+Category;HS_Religion;748;;
+Category;HS_Race;552;;
+Category;HS_Physical;317;;
+Category;HS_Gender;298;;
+Category;HS_Other;3,481;;
+Level;HS_Weak;3,179;;
+Level;HS_Moderate;1,592;;
+Level;HS_Strong;464;;
+Non Hate Speech;Non Hate Speech;5860;;
+;;;;
